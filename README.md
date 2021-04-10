@@ -6,4 +6,4 @@ Primary scope will be Java 8, Git, BDD including Cucumber, feature files and Mav
 ## Lesson 1
 
 Establish the local repo, remote master and branch
-
+Cook a sausage
