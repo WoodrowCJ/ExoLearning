@@ -1,10 +1,9 @@
-# Training Project
+# Java 8, Git and BDD Training project
 
-The usual example project for my GIT training and Java
-Now that I've connected successfully
+This repo is an experimental repository for training and learning.
+Primary scope will be Java 8, Git, BDD including Cucumber, feature files and Maven.
 
-## Objectives
+## Lesson 1
 
-Finish YT tutorials or not
+Establish the local repo, remote master and branch
 Cook a sausage
-
