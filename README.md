@@ -6,3 +6,5 @@ Now that I've connected successfully
 ## Objectives
 
 Finish YT tutorials or not
+Cook a sausage
+
